@@ -2,7 +2,7 @@
 
 ### First and Last Name: Δημήτρης Ράπτης 
 ### University Registration Number: dpsd19113
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/dpsd19113
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
