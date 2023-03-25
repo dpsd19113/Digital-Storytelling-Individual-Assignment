@@ -59,10 +59,9 @@ Screenshots
 ![Στιγμιότυπο οθόνης (155)](https://user-images.githubusercontent.com/100956169/227173708-09786ef2-dbef-4db5-a50d-358f3c3e0b87.png)
 ![Στιγμιότυπο οθόνης (156)](https://user-images.githubusercontent.com/100956169/227173734-e2726942-1ff3-4864-9f63-6d1fba675ede.png)
 ![Στιγμιότυπο οθόνης (158)](https://user-images.githubusercontent.com/100956169/227173839-76cbc8c5-655e-4822-a621-f55f3d0e7cbb.png)
-![Στιγμιότυπο οθόνης (157)](https://user-images.githubusercontent.com/100956169/227173850-886f76ca-b125-4b9f-ad6d-b6cfa804
+![Στιγμιότυπο οθόνης (157)](https://user-images.githubusercontent.com/100956169/227173850-886f76ca-b125-4b9f-ad6d-b6cfa804082b.png)
 
 https://user-images.githubusercontent.com/100956169/227747636-cd7afdd2-87d0-487d-b4e8-715fdedfb370.mp4
-
 082b.png)
 
 # 2nd Deliverable
