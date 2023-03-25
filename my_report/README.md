@@ -27,6 +27,10 @@ Screenshots
 ![Στιγμιότυπο οθόνης (141)](https://user-images.githubusercontent.com/100956169/225052974-446fb5e3-f8e6-4a9f-8ef5-6375555422ba.png)
 ![Στιγμιότυπο οθόνης (142)](https://user-images.githubusercontent.com/100956169/225052998-2f899d0a-71d5-41e0-b122-59e5342d2f0f.png)
 
+
+https://user-images.githubusercontent.com/100956169/227747621-2ce3b1ad-21ca-43a7-97b0-c8d766cb8315.mp4
+
+
 UNIT 3
 
 Αρχικά κατέβασα την πόλη. Ξεκίνησα τοποθετώντας τα props από τα assets. Έβαλα 8 props τις σκάλες, τον αυτόματο πωλητή, τα λάστιχα, την μηχανή, το ποδήλατο, την πινακίδα pawn shop, τον πυροσβεστικό κρουνό και το ταχυδρομικό κουτί. Κατέβασα το pro builder και ξεκίνησα να δημιουργώ τις δύο μεγάλες ταμπέλες. Τις έφτιαξα με κύβους και κώνους. Έφτιαξα και ακόμα 3 materials για να τα βάλω στα props που έφτιαξα. Μετά έφτιαξα ένα timeline για την κίνηση του αυτοκίνητου και την κίνηση της κάμερας που το ακολουθεί. Κατέβασα το unity recorder για να βιντεοσκοπήσω το animation του car 1 το οποίο περνάει κάτω από τις πινακίδες. Το βίντεο το αποθήκευσα σε 1080ρ και σε mp4 
@@ -41,6 +45,10 @@ Screenshots
 ![Στιγμιότυπο οθόνης (150)](https://user-images.githubusercontent.com/100956169/225289828-45c8c081-1ec2-46e7-9ca6-0a59c1a0f970.png)
 ![Στιγμιότυπο οθόνης (151)](https://user-images.githubusercontent.com/100956169/225289835-611eb192-52a4-4006-96da-703f0d8f9fee.png)
 
+
+https://user-images.githubusercontent.com/100956169/227747630-8869c6ad-baa2-495e-8a2e-332263ffbe9c.mp4
+
+
 Unit 4
 
 Αρχικά κατέβασα το αρχείο για την πόλη. 'Επειτα ξεκίνησα να βάζω τα props που ήθελα να χρησιμοποιήσω όπως την μηχανή, τον άνθρωπο, τα δύο ρομπότ και τον αυτόματο πωλητή. Τα δύο αμάξια και η κάμερα ασφαλείας υπήρχαν ήδη μέσα. Ακόμη κατέβασα από το asset store τον ουρανό για να υπάρχει στο background. Έπειτα ξεκίνησα να βάζαω σε κάθε ένα από τα props μου το κατάλληλο animation στο master timeline. Το animation για τα αυτοκίνητα και την κάμερα ασφαλείας υπήρχε ήδη. Επιτάχυνα το animation του ανθρώπου για να πηγαίνει μαζί με το ρομπότ και την μηχανή. Όταν τελειώσει το animation του ανθρώπου του πρώτου ρομπότ και της μηχανής έβαλα να ξεκινάει το επόμενο μεγαλύτερο ρομπότ. Μετά κατέβασα από το package manager το unity recorder για να βιντεοσκοπήσω το animation που το αποθήκευσα σε 1080p και mp4.
@@ -51,7 +59,11 @@ Screenshots
 ![Στιγμιότυπο οθόνης (155)](https://user-images.githubusercontent.com/100956169/227173708-09786ef2-dbef-4db5-a50d-358f3c3e0b87.png)
 ![Στιγμιότυπο οθόνης (156)](https://user-images.githubusercontent.com/100956169/227173734-e2726942-1ff3-4864-9f63-6d1fba675ede.png)
 ![Στιγμιότυπο οθόνης (158)](https://user-images.githubusercontent.com/100956169/227173839-76cbc8c5-655e-4822-a621-f55f3d0e7cbb.png)
-![Στιγμιότυπο οθόνης (157)](https://user-images.githubusercontent.com/100956169/227173850-886f76ca-b125-4b9f-ad6d-b6cfa804082b.png)
+![Στιγμιότυπο οθόνης (157)](https://user-images.githubusercontent.com/100956169/227173850-886f76ca-b125-4b9f-ad6d-b6cfa804
+
+https://user-images.githubusercontent.com/100956169/227747636-cd7afdd2-87d0-487d-b4e8-715fdedfb370.mp4
+
+082b.png)
 
 # 2nd Deliverable
 
